@@ -14,7 +14,7 @@ public static Logger logger=LoggerFactory.getLogger(SpringJenkinApplication.clas
 	
   @PostConstruct
 	public void init() {
-		logger.info("App started");
+		logger.info("Application  started .....");
 	}
 	
 	public static void main(String[] args) {
